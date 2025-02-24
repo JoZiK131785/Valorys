@@ -1,8 +1,18 @@
-# React + Vite
+# Valorys
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application de Gestion de Collection et Suivi des cotes
 
-Currently, two official plugins are available:
+## MISE A JOUR 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### `24/02/2025 : Login`
+
+- Creation README.md
+- Installation axios, react-router-dom
+- Ajout public/img => finance-background.png & white-avatar.png
+- Update index.html, main.jsx, App.jsx, App.css, reset.css
+- Creation Pages Home et Dashboard
+- PrivateRoute.jsx, apiRoutes, axios, icons et loginFunctions
+
+### `23/02/2025 : Base Setup`
+
+- Creation frontend
